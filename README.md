@@ -8,6 +8,6 @@ In this analysis we will explore that the posts begin with Ask or Show. Users su
 - Do Ask HN or Show HN receive more comments on average?
 - Do posts created at a certain time receive more comments on average?
 
-On average, ask posts in our sample receive approximately 10 comments, whereas show posts receive approximately 4.
-
-The hour that receives the most comments per post on average is 15:00, with an average of 28.68 comments per post. There's about a 75% increase in the number of comments between the hours with the highest and second highest average number of comments.
+## Findings
+- On average, ask posts in our sample receive approximately 10 comments, whereas show posts receive approximately 4.
+- The hour that receives the most comments per post on average is 15:00, with an average of 28.68 comments per post. There's about a 75% increase in the number of comments between the hours with the highest and second highest average number of comments.
