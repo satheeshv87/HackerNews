@@ -1,5 +1,6 @@
 # Hacker News
-## Hacker News is a popular site where technology related news/stories are voted and commented upon. Users post news/stories from different sources and can have URLs poiting to the source.
+
+Hacker News is a popular site where technology related news/stories are voted and commented upon. Users post news/stories from different sources and can have URLs poiting to the source.
 
 In this analysis we will explore that the posts begin with Ask or Show. Users submit Ask HN posts to ask the Hacker News community a specific question, such as "What is the best online course you've ever taken?" Likewise, users submit Show HN posts to show the Hacker News community a project, product, or just generally something interesting.
 
